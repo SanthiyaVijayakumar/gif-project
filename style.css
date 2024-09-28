@@ -1,0 +1,43 @@
+
+.nav img {
+    width: 70px;
+    display: inline-flex;
+    padding-left: 100px;
+    float: inline-start;
+    padding-top: 10px;
+    font-size: xx-small;
+}
+#text1{
+    display: inline-flex;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
+#text{
+    float: right;
+    display: flex;
+    padding-right: 150px;
+    display: inline-flex;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
+.nav{
+    background-color: black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 110px;
+}
+.page h1{
+    text-align: center;
+    font-family:cursive ; 
+    font-weight:bolder;
+    font-size:180px;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* Outer shadow */
+    color: whitesmoke;
+}
+.page img{
+    width: 1000px;
+    height: 900px;
+    padding-left: 200px;
+}
